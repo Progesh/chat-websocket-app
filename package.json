@@ -1,0 +1,25 @@
+{
+    "name": "chat-websocket-app",
+    "version": "1.0.0",
+    "description": "A real-time chat application based on WebSockets using Node.js and Socket.IO.",
+    "main": "src/server.js",
+    "scripts": {
+      "start": "node src/server.js",
+      "dev": "nodemon src/server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "socket.io": "^4.0.0"
+    },
+    "devDependencies": {
+      "nodemon": "^2.0.7"
+    },
+    "keywords": [
+      "chat",
+      "websockets",
+      "nodejs",
+      "socket.io"
+    ],
+    "author": "Your Name",
+    "license": "MIT"
+  }

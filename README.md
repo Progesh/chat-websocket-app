@@ -1,4 +1,4 @@
-# DEVELOP A CHAT BASED ON WEBSOCKETS USING JAVASCRIPT & NODEJS
+# Chat application based on websockets using Javascript and Nodejs
 
 ## DESCRIPTION
 
